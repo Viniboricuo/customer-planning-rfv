@@ -8,18 +8,6 @@
 
 > **Projeto de portfólio. Marca, dados e código fictícios, gerados sinteticamente; não contém código, dados, fotos ou logos de nenhuma empresa.**
 
-## English summary
-
-A static, backend-free customer-planning (CRM) dashboard for a fictional retailer, **Demo Retail Co.** Everything runs in the
-browser on synthetic data produced by a seeded generator, so the same seed always produces the same numbers.
-
-- **Pages:** Overview · RFV & clusters · ABC curve · Recurrence · CRM funnel · Regions · Customer list (search + CSV export).
-- **TV mode** (`tv.html`): full-screen dark view that rotates five screens with a progress bar, clock, pause, settings and a news ticker.
-- **Analytics in plain JS:** RFV quintile scoring and segments, k-means (k = 5, k-means++), Pareto/ABC classes, repeat-purchase
-  rate, purchase-interval histogram, acquisition cohorts and a five-step CRM funnel with 30-day attribution.
-- **Stack:** HTML, CSS and vanilla JavaScript; Chart.js 4.4.1 (cdnjs) and the Geist font (Google Fonts). No build step.
-- **Run:** double-click `index.html`, or publish the folder on GitHub Pages. UI language is Brazilian Portuguese.
-
 ## Português
 
 Painel estático de planejamento de clientes (CRM) de um varejista fictício, a **Demo Retail Co.**. Não tem servidor: os dados
@@ -102,3 +90,17 @@ Projeto de portfólio. Marca, dados e código fictícios, gerados sinteticamente
 Qualquer semelhança de nomes, números ou lojas com casos reais é coincidência.
 
 Licença: MIT (ver `LICENSE`).
+
+---
+
+## English summary
+
+A static, backend-free customer-planning (CRM) dashboard for a fictional retailer, **Demo Retail Co.** Everything runs in the
+browser on synthetic data produced by a seeded generator, so the same seed always produces the same numbers.
+
+- **Pages:** Overview · RFV & clusters · ABC curve · Recurrence · CRM funnel · Regions · Customer list (search + CSV export).
+- **TV mode** (`tv.html`): full-screen dark view that rotates five screens with a progress bar, clock, pause, settings and a news ticker.
+- **Analytics in plain JS:** RFV quintile scoring and segments, k-means (k = 5, k-means++), Pareto/ABC classes, repeat-purchase
+  rate, purchase-interval histogram, acquisition cohorts and a five-step CRM funnel with 30-day attribution.
+- **Stack:** HTML, CSS and vanilla JavaScript; Chart.js 4.4.1 (cdnjs) and the Geist font (Google Fonts). No build step.
+- **Run:** double-click `index.html`, or publish the folder on GitHub Pages. UI language is Brazilian Portuguese.
