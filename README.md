@@ -1,5 +1,11 @@
 # Customer Planning · RFV dashboard (Demo Retail Co.)
 
+**▶ [Demo ao vivo](https://viniboricuo.github.io/customer-planning-rfv/)** · [Modo TV](https://viniboricuo.github.io/customer-planning-rfv/tv.html) · RFV · k-means · curva ABC · safras · funil de CRM
+
+![Visão geral do painel](docs/screenshot.jpg)
+
+**Em números:** ~6.000 clientes e ~13 mil compras em 36 meses · 7 segmentos RFV + k-means (k = 5) · 14 campanhas de CRM com atribuição de 30 dias · 27 UFs em 5 regiões
+
 > **Projeto de portfólio. Marca, dados e código fictícios, gerados sinteticamente; não contém código, dados, fotos ou logos de nenhuma empresa.**
 
 ## English summary
